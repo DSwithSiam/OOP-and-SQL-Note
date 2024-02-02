@@ -1,0 +1,9 @@
+﻿For Organizing Github Accout : 
+1. https://rahuldkjain.github.io/gh-profile-readme-generator/
+2. https://readme.so/editor
+
+
+Django Related Interview questions : 
+1. https://www.interviewbit.com/django-interview-questions/
+2. https://www.turing.com/interview-questions/django
+3. rest vs soap vs graphql
